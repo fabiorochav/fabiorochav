@@ -2,8 +2,8 @@
 
 <b>Um pouco sobre minha formação e experiência:</b>
 
-- 🙋‍♂️ Sou formado em Filosofia (licenciatura) e graduando em Economia.
+- 🙋‍♂️ Economista e filósofo pela Universidade Federal de Ouro Preto
 - 🎲 Comecei estudar Ciências de Dados em 2021.
-- 👔 Já atuei como assessor de comunicação na Secretaria de Saúde de Ouro Preto e hoje atuo com estudos econômicos na Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia em Ouro Preto
+- 👔 Estou como diretor de estudos economicos na Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia em Ouro Preto e já atuei como assessor de comunicação na secretaria de saúde desse mesmo município.
 - ⌨️ Tenho experiência com Python, R, Power Bi e Excel. 
 
